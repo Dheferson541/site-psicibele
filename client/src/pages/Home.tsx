@@ -79,7 +79,7 @@ export default function Home() {
               <div className="absolute inset-0 bg-gradient-to-br from-primary/20 to-secondary/20 rounded-3xl blur-2xl" />
               <img
                 src="/foto-perfil.webp"
-                alt="Psi. Cibele Maciel - Psicóloga"
+                alt="Psi. Cibele Maciel - Psicóloga" 
                 className="relative rounded-3xl shadow-2xl w-full h-auto object-cover"
               />
             </div>
