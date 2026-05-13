@@ -1,4 +1,4 @@
-import { Toaster } from "@/components/ui/sonner";
+//import { Toaster } from "@/components/ui/sonner";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import NotFound from "@/pages/NotFound";
 import { Route, Switch } from "wouter";
@@ -31,7 +31,6 @@ function App() {
         // switchable
       >
         <TooltipProvider>
-          <Toaster />
           <Router />
         </TooltipProvider>
       </ThemeProvider>
